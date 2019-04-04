@@ -1,5 +1,7 @@
 # vuex-counter
 
+## Getting started with vuex: a Begginer's guide Sitepoint project
+
 ## Project setup
 ```
 npm install
